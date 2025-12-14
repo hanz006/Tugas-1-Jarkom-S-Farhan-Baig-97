@@ -59,7 +59,10 @@ Supernet yang digunakan:
 | Tunnel WAN | 10.137.3.240 | /30 | 255.255.255.252 | 10.137.3.241 - 10.137.3.242 | 10.137.3.243 | 10.137.3.241 |
 
 ---
+## Toplogi VLSM
+<img width="1283" height="778" alt="image" src="https://github.com/user-attachments/assets/45186f0c-8b3e-42b3-b873-bcc3613488de" />
 
+---
 ## VLSM Tree
 
 
@@ -92,6 +95,7 @@ Supernet yang digunakan:
 ---
 
 ## Topologi Jaringan
+<img width="1212" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5d6bf4-9582-4c97-b74c-27e24e589eb4" />
 
 
 ---

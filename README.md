@@ -68,7 +68,10 @@ Supernet yang digunakan:
 
 ---
 
-## CIDR
+## Topologi CIDR
+<img width="1212" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5d6bf4-9582-4c97-b74c-27e24e589eb4" />
+
+---
 
 ### CIDR Level A
 - 10.137.0.0/23
@@ -95,7 +98,8 @@ Supernet yang digunakan:
 ---
 
 ## Topologi Jaringan
-<img width="1212" height="705" alt="image" src="https://github.com/user-attachments/assets/4b5d6bf4-9582-4c97-b74c-27e24e589eb4" />
+<img width="1196" height="696" alt="image" src="https://github.com/user-attachments/assets/18a415de-bc21-49c0-bb35-2f3327e9ddf9" />
+
 
 
 ---

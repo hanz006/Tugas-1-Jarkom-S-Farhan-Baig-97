@@ -1,6 +1,5 @@
-# 📡 Tugas 1 – Komunikasi Data dan Jaringan Komputer
+# Tugas 1 – Komunikasi Data dan Jaringan Komputer
 ## Subnetting VLSM & CIDR  
-Semester Gasal 2025/2026
 
 | Nama                   | NRP        |
 | ---------------------- | ---------- |
@@ -31,7 +30,7 @@ Supernet yang digunakan:
 
 ---
 
-## 🏢 Kebutuhan Host
+## Kebutuhan Host
 
 | Unit Kerja | Jumlah Host |
 |-----------|-------------|
@@ -92,7 +91,7 @@ Supernet yang digunakan:
 
 ---
 
-## 🖧 Topologi Jaringan
+## Topologi Jaringan
 
 
 ---

@@ -64,7 +64,7 @@ Supernet yang digunakan:
 
 ---
 ## VLSM Tree
-
+<img width="744" height="816" alt="image" src="https://github.com/user-attachments/assets/edeb41be-5fe8-4713-b9d7-82e4f1c9b4c5" />
 
 ---
 

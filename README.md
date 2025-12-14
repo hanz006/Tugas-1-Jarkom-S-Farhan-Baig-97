@@ -2,23 +2,20 @@
 ## Subnetting VLSM & CIDR  
 Semester Gasal 2025/2026
 
----
+| Nama                   | NRP        |
+| ---------------------- | ---------- |
+| S. Farhan Baig | 5027241097 |
 
-## 👤 Identitas
-- Nama : <NAMA KAMU>
-- NRP  : 5027241097
-- Kelas : <A / B / C>
-- Mata Kuliah : Komunikasi Data dan Jaringan Komputer
 
 ---
 
-## 📌 Deskripsi Tugas
+## Deskripsi Tugas
 Tugas ini bertujuan untuk merancang dan mengonfigurasi jaringan komputer pada Yayasan Pendidikan ARA yang terdiri dari Kantor Pusat dan Kantor Cabang.  
 Perancangan jaringan dilakukan menggunakan Cisco Packet Tracer dengan penerapan Subnetting VLSM dan CIDR.
 
 ---
 
-## 🌐 Base Network
+## Base Network
 Base network ditentukan berdasarkan rumus:
 
 10.(NRP mod 256).0.0
@@ -49,7 +46,7 @@ Supernet yang digunakan:
 
 ---
 
-## 🔀 Subnetting VLSM
+## Subnetting VLSM
 
 | Subnet | Network Address | Prefix | Subnet Mask | Host Range | Broadcast | Gateway |
 |-------|----------------|--------|-------------|------------|-----------|---------|
@@ -64,12 +61,12 @@ Supernet yang digunakan:
 
 ---
 
-## 🌳 VLSM Tree
-![VLSM Tree](VLSM_Tree.jpg)
+## VLSM Tree
+
 
 ---
 
-## 📦 CIDR
+## CIDR
 
 ### CIDR Level A
 - 10.137.0.0/23
@@ -90,27 +87,17 @@ Supernet yang digunakan:
 
 ---
 
-## 🌲 CIDR Tree
-![CIDR Tree](CIDR_Tree.jpg)
+## CIDR Tree
+
 
 ---
 
 ## 🖧 Topologi Jaringan
-![Topologi](Topology_CPT.png)
-
----
-
-## 📁 File Pendukung
-- Excel_Subnetting.xlsx
-- Topologi_Jarkom_097.pkt
-- VLSM_Tree.jpg
-- CIDR_Tree.jpg
-- Topology_CPT.png
-
----
 
 
 ---
 
-## ✅ Kesimpulan
+
+
+## Kesimpulan
 Subnetting menggunakan VLSM membuat penggunaan alamat IP lebih efisien, sedangkan CIDR digunakan untuk menggabungkan beberapa subnet menjadi supernet agar routing lebih sederhana.

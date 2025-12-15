@@ -13,6 +13,10 @@ Tugas ini bertujuan untuk merancang dan mengonfigurasi jaringan komputer pada Ya
 Perancangan jaringan dilakukan menggunakan Cisco Packet Tracer dengan penerapan Subnetting VLSM dan CIDR.
 
 ---
+## Topologi Jaringan
+<img width="1196" height="696" alt="image" src="https://github.com/user-attachments/assets/18a415de-bc21-49c0-bb35-2f3327e9ddf9" />
+
+---
 
 ## Base Network
 Base network ditentukan berdasarkan rumus:
@@ -109,14 +113,7 @@ Total Host: 778 host
 ---
 
 ## CIDR Tree
-
-
----
-
-## Topologi Jaringan
-<img width="1196" height="696" alt="image" src="https://github.com/user-attachments/assets/18a415de-bc21-49c0-bb35-2f3327e9ddf9" />
-
-
+<img width="1220" height="556" alt="image" src="https://github.com/user-attachments/assets/10df40d5-51c9-4467-a19e-2c157bd38c3a" />
 
 ---
 ## Subnetting CIDR

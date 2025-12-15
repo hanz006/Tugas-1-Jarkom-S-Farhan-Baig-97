@@ -25,8 +25,24 @@ Perhitungan:
 Base Network:
 10.137.0.0
 
+### Subnetting
 Supernet yang digunakan:
 10.137.0.0/22
+
+Total Host: 778 host
+
+
+| **Nama Subnet**                    | **Host** | **Host + Gateway** | **Netmask** |
+|-----------------------------------|---------:|--------------------:|:-----------:|
+| Sekretariat                       |     380 |                381  | /23         |
+| Bidang Kurikulum                  |     220 |                221  | /24         |
+| Bidang Guru & Tendik              |      95 |                 96  | /25         |
+| Bidang Sarana Prasarana           |      45 |                 46  | /26         |
+| Bidang Pengawas Sekolah           |      18 |                 19  | /27         |
+| Server & Admin                    |       6 |                  7  | /28         |
+| Jaringan Gabungan                 |       6 |                  6  | /29         |
+| Tunnel (Link Pusat dan Cabang)    |       2 |                  2  | /30         |
+| TOTAL                             |         |              **778**| **/22**     |
 
 ---
 
